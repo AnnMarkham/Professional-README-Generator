@@ -1,4 +1,11 @@
-// array of questions for user
+
+"use strict"
+const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/gererateMarkdown.js')
+
+
+
+//  array of questions for user
 const questions = [
 
 ];
